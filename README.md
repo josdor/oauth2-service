@@ -1,2 +1,2 @@
-# outh2-service
+# oauth2-service
 Serveur de délégation des autorisations des accès.
